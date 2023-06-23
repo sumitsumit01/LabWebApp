@@ -1,0 +1,26 @@
+C:\Users\scpri\OneDrive\Documents\Geogian College\Sem 3\asp.net\ASP.NET Core Web App (Model-View-Controller)\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\scpri\OneDrive\Documents\Geogian College\Sem 3\asp.net\ASP.NET Core Web App (Model-View-Controller)\bin\Debug\net6.0\appsettings.json
+C:\Users\scpri\OneDrive\Documents\Geogian College\Sem 3\asp.net\ASP.NET Core Web App (Model-View-Controller)\bin\Debug\net6.0\ASP.NET Core Web App (Model-View-Controller).staticwebassets.runtime.json
+C:\Users\scpri\OneDrive\Documents\Geogian College\Sem 3\asp.net\ASP.NET Core Web App (Model-View-Controller)\bin\Debug\net6.0\ASP.NET Core Web App (Model-View-Controller).exe
+C:\Users\scpri\OneDrive\Documents\Geogian College\Sem 3\asp.net\ASP.NET Core Web App (Model-View-Controller)\bin\Debug\net6.0\ASP.NET Core Web App (Model-View-Controller).deps.json
+C:\Users\scpri\OneDrive\Documents\Geogian College\Sem 3\asp.net\ASP.NET Core Web App (Model-View-Controller)\bin\Debug\net6.0\ASP.NET Core Web App (Model-View-Controller).runtimeconfig.json
+C:\Users\scpri\OneDrive\Documents\Geogian College\Sem 3\asp.net\ASP.NET Core Web App (Model-View-Controller)\bin\Debug\net6.0\ASP.NET Core Web App (Model-View-Controller).dll
+C:\Users\scpri\OneDrive\Documents\Geogian College\Sem 3\asp.net\ASP.NET Core Web App (Model-View-Controller)\bin\Debug\net6.0\ASP.NET Core Web App (Model-View-Controller).pdb
+C:\Users\scpri\OneDrive\Documents\Geogian College\Sem 3\asp.net\ASP.NET Core Web App (Model-View-Controller)\obj\Debug\net6.0\ASP.NET Core Web App (Model-View-Controller).csproj.AssemblyReference.cache
+C:\Users\scpri\OneDrive\Documents\Geogian College\Sem 3\asp.net\ASP.NET Core Web App (Model-View-Controller)\obj\Debug\net6.0\ASP.NET Core Web App (Model-View-Controller).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scpri\OneDrive\Documents\Geogian College\Sem 3\asp.net\ASP.NET Core Web App (Model-View-Controller)\obj\Debug\net6.0\ASP.NET Core Web App (Model-View-Controller).AssemblyInfoInputs.cache
+C:\Users\scpri\OneDrive\Documents\Geogian College\Sem 3\asp.net\ASP.NET Core Web App (Model-View-Controller)\obj\Debug\net6.0\ASP.NET Core Web App (Model-View-Controller).AssemblyInfo.cs
+C:\Users\scpri\OneDrive\Documents\Geogian College\Sem 3\asp.net\ASP.NET Core Web App (Model-View-Controller)\obj\Debug\net6.0\ASP.NET Core Web App (Model-View-Controller).csproj.CoreCompileInputs.cache
+C:\Users\scpri\OneDrive\Documents\Geogian College\Sem 3\asp.net\ASP.NET Core Web App (Model-View-Controller)\obj\Debug\net6.0\ASP.NET Core Web App (Model-View-Controller).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\scpri\OneDrive\Documents\Geogian College\Sem 3\asp.net\ASP.NET Core Web App (Model-View-Controller)\obj\Debug\net6.0\ASP.NET Core Web App (Model-View-Controller).RazorAssemblyInfo.cache
+C:\Users\scpri\OneDrive\Documents\Geogian College\Sem 3\asp.net\ASP.NET Core Web App (Model-View-Controller)\obj\Debug\net6.0\ASP.NET Core Web App (Model-View-Controller).RazorAssemblyInfo.cs
+C:\Users\scpri\OneDrive\Documents\Geogian College\Sem 3\asp.net\ASP.NET Core Web App (Model-View-Controller)\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\scpri\OneDrive\Documents\Geogian College\Sem 3\asp.net\ASP.NET Core Web App (Model-View-Controller)\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\scpri\OneDrive\Documents\Geogian College\Sem 3\asp.net\ASP.NET Core Web App (Model-View-Controller)\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\scpri\OneDrive\Documents\Geogian College\Sem 3\asp.net\ASP.NET Core Web App (Model-View-Controller)\obj\Debug\net6.0\scopedcss\bundle\ASP.NET Core Web App (Model-View-Controller).styles.css
+C:\Users\scpri\OneDrive\Documents\Geogian College\Sem 3\asp.net\ASP.NET Core Web App (Model-View-Controller)\obj\Debug\net6.0\scopedcss\projectbundle\ASP.NET Core Web App (Model-View-Controller).bundle.scp.css
+C:\Users\scpri\OneDrive\Documents\Geogian College\Sem 3\asp.net\ASP.NET Core Web App (Model-View-Controller)\obj\Debug\net6.0\ASP.NET Core Web App (Model-View-Controller).dll
+C:\Users\scpri\OneDrive\Documents\Geogian College\Sem 3\asp.net\ASP.NET Core Web App (Model-View-Controller)\obj\Debug\net6.0\refint\ASP.NET Core Web App (Model-View-Controller).dll
+C:\Users\scpri\OneDrive\Documents\Geogian College\Sem 3\asp.net\ASP.NET Core Web App (Model-View-Controller)\obj\Debug\net6.0\ASP.NET Core Web App (Model-View-Controller).pdb
+C:\Users\scpri\OneDrive\Documents\Geogian College\Sem 3\asp.net\ASP.NET Core Web App (Model-View-Controller)\obj\Debug\net6.0\ASP.NET Core Web App (Model-View-Controller).genruntimeconfig.cache
+C:\Users\scpri\OneDrive\Documents\Geogian College\Sem 3\asp.net\ASP.NET Core Web App (Model-View-Controller)\obj\Debug\net6.0\ref\ASP.NET Core Web App (Model-View-Controller).dll
